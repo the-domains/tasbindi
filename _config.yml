@@ -1,0 +1,14 @@
+layout_spectrum: 0.3088411
+color:
+  saturation: 0.1499403
+  brandStrength: 0.03518947
+  lightness: 0.1642772
+  rhythmicContrast: 0.6923536
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+typography_spectrum: 0.4426523
+name: tasbindi
